@@ -1,5 +1,5 @@
 import React from 'react';
-import './Cursus.js';
+import './Cursus.css';
 
 function Cursus() {
   return (

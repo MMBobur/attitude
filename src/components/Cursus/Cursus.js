@@ -12,7 +12,7 @@ function Cursus() {
               Fugiat deserunt repr reiciendis consectetur, aut, atusrepud
              nandae voluptas atque mollitia dolorumtmollitia dolorumt umt 
              dolorumt umt gert olorumt umt gert umt gert umt gerid
-             gert umt gert umt geri umt gert umt
+             gert umt gert umt geri 
           </p>
       </div>
       <div className="block2">

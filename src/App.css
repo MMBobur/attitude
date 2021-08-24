@@ -90,3 +90,6 @@
 #lasta{
   width: 120px;
 }
+.footer {
+display: flex;
+}
